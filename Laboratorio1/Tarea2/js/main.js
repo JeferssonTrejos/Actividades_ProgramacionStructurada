@@ -9,7 +9,7 @@ function isValidNumber(num){
             break
         default:
             return num
-    }
+    };
 };
 
 
